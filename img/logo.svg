@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" width="218.26" height="344.49" viewBox="0 0 218.26 344.49">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3362ac;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #1e4c9c;
+      }
+
+      .cls-3 {
+        fill: #457abd;
+      }
+    </style>
+  </defs>
+  <g id="Axonometric_Cube" data-name="Axonometric Cube">
+    <polygon id="Cube_face_-_top" data-name="Cube face - top" class="cls-3" points="171.9 226.46 125.54 199.7 171.9 172.93 218.26 199.7 171.9 226.46"/>
+    <polygon id="Cube_face_-_left" data-name="Cube face - left" class="cls-2" points="171.9 276.38 125.54 249.62 125.54 199.7 171.9 226.46 171.9 276.38"/>
+    <polygon id="Cube_face_-_right" data-name="Cube face - right" class="cls-1" points="218.26 249.62 171.9 276.38 171.9 226.46 218.26 199.7 218.26 249.62"/>
+  </g>
+  <g id="Axonometric_Cube-2" data-name="Axonometric Cube">
+    <polygon id="Cube_face_-_top-2" data-name="Cube face - top" class="cls-3" points="171.9 139.92 125.54 113.15 171.9 86.39 218.26 113.15 171.9 139.92"/>
+    <polygon id="Cube_face_-_left-2" data-name="Cube face - left" class="cls-2" points="171.9 189.84 125.54 163.07 125.54 113.15 171.9 139.92 171.9 189.84"/>
+    <polygon id="Cube_face_-_right-2" data-name="Cube face - right" class="cls-1" points="218.26 163.07 171.9 189.84 171.9 139.92 218.26 113.15 218.26 163.07"/>
+  </g>
+  <g id="Axonometric_Cube-3" data-name="Axonometric Cube">
+    <polygon id="Cube_face_-_top-3" data-name="Cube face - top" class="cls-3" points="171.9 53.53 125.54 26.77 171.9 0 218.26 26.77 171.9 53.53"/>
+    <polygon id="Cube_face_-_left-3" data-name="Cube face - left" class="cls-2" points="171.9 103.45 125.54 76.68 125.54 26.77 171.9 53.53 171.9 103.45"/>
+    <polygon id="Cube_face_-_right-3" data-name="Cube face - right" class="cls-1" points="218.26 76.68 171.9 103.45 171.9 53.53 218.26 26.77 218.26 76.68"/>
+  </g>
+  <g id="Axonometric_Cube-4" data-name="Axonometric Cube">
+    <polygon id="Cube_face_-_top-4" data-name="Cube face - top" class="cls-3" points="110.95 174.03 64.6 147.27 110.95 120.5 157.31 147.27 110.95 174.03"/>
+    <polygon id="Cube_face_-_left-4" data-name="Cube face - left" class="cls-2" points="110.95 223.95 64.6 197.19 64.6 147.27 110.95 174.03 110.95 223.95"/>
+    <polygon id="Cube_face_-_right-4" data-name="Cube face - right" class="cls-1" points="157.31 197.19 110.95 223.95 110.95 174.03 157.31 147.27 157.31 197.19"/>
+  </g>
+  <g id="Axonometric_Cube-5" data-name="Axonometric Cube">
+    <polygon id="Cube_face_-_top-5" data-name="Cube face - top" class="cls-3" points="46.36 294.57 0 267.8 46.36 241.04 92.72 267.8 46.36 294.57"/>
+    <polygon id="Cube_face_-_left-5" data-name="Cube face - left" class="cls-2" points="46.36 344.49 0 317.72 0 267.8 46.36 294.57 46.36 344.49"/>
+    <polygon id="Cube_face_-_right-5" data-name="Cube face - right" class="cls-1" points="92.72 317.72 46.36 344.49 46.36 294.57 92.72 267.8 92.72 317.72"/>
+  </g>
+  <g id="Axonometric_Cube-6" data-name="Axonometric Cube">
+    <polygon id="Cube_face_-_top-6" data-name="Cube face - top" class="cls-3" points="46.36 208.02 0 181.26 46.36 154.49 92.72 181.26 46.36 208.02"/>
+    <polygon id="Cube_face_-_left-6" data-name="Cube face - left" class="cls-2" points="46.36 257.94 0 231.18 0 181.26 46.36 208.02 46.36 257.94"/>
+    <polygon id="Cube_face_-_right-6" data-name="Cube face - right" class="cls-1" points="92.72 231.18 46.36 257.94 46.36 208.02 92.72 181.26 92.72 231.18"/>
+  </g>
+  <g id="Axonometric_Cube-7" data-name="Axonometric Cube">
+    <polygon id="Cube_face_-_top-7" data-name="Cube face - top" class="cls-3" points="46.36 121.64 0 94.87 46.36 68.1 92.72 94.87 46.36 121.64"/>
+    <polygon id="Cube_face_-_left-7" data-name="Cube face - left" class="cls-2" points="46.36 171.55 0 144.79 0 94.87 46.36 121.64 46.36 171.55"/>
+    <polygon id="Cube_face_-_right-7" data-name="Cube face - right" class="cls-1" points="92.72 144.79 46.36 171.55 46.36 121.64 92.72 94.87 92.72 144.79"/>
+  </g>
+</svg>

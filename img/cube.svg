@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" width="218.26" height="243.51" viewBox="0 0 218.26 243.51">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3362ac;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #1e4c9c;
+      }
+
+      .cls-3 {
+        fill: #457abd;
+      }
+    </style>
+  </defs>
+  <g id="Axonometric_Cube" data-name="Axonometric Cube">
+    <polygon id="Cube_face_-_top" data-name="Cube face - top" class="cls-3" points="109.13 126.01 0 63 109.13 0 218.26 63 109.13 126.01"/>
+    <polygon id="Cube_face_-_left" data-name="Cube face - left" class="cls-2" points="109.13 243.51 0 180.5 0 63 109.13 126.01 109.13 243.51"/>
+    <polygon id="Cube_face_-_right" data-name="Cube face - right" class="cls-1" points="218.26 180.5 109.13 243.51 109.13 126.01 218.26 63 218.26 180.5"/>
+  </g>
+</svg>
